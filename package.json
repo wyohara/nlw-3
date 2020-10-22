@@ -1,28 +1,11 @@
-
 {
   "name": "nlw-3",
   "version": "1.0.0",
-  "description": "Projeto Happy para encontrar orfanatos no município de seropédica",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/wyohara/nlw-3.git"
-  },
-  "keywords": [
-    "web",
-    "mobile",
-    "react"
-  ],
-  "author": "Willian Yudi Ohara",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/wyohara/nlw-3/issues"
-  },
-  "homepage": "https://github.com/wyohara/nlw-3#readme",
+  "repository": "https://github.com/wyohara/nlw-3.git",
+  "author": "Willian Ohara <wyohara.dev@gmail.com>",
+  "license": "MIT",
   "dependencies": {
-    "react": "^16.13.1"
+    "react-app": "^1.1.2"
   }
 }
